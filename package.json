@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-auto-report-error",
+  "version": "0.1.0",
+  "main": "src/lib.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaelstart/babel-plugin-auto-report-error.git"
+  },
+  "author": "kaelcoco <657075528@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaelstart/babel-plugin-auto-report-error/issues"
+  },
+  "homepage": "https://github.com/kaelstart/babel-plugin-auto-report-error#readme",
+  "dependencies": {
+    "@babel/generator": "7.14.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "jest": "27"
+  }
+}
